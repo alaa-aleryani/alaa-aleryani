@@ -6,7 +6,7 @@
 -  <a href="https://www.linkedin.com/in/alaa-aleryani-6183a121b/">
    <img align="left" alt="Alaa's Linkedin" width="20px" 
      src="https://img.icons8.com/fluency/48/linkedin.png" />
-    </a> I'd be happy to connect  😄
+    </a>I'd be happy to connect  😄
 
 <!---
 alaa-aleryani/alaa-aleryani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
